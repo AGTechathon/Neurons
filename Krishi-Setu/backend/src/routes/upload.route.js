@@ -7,3 +7,6 @@ const router = express.Router();
 router.post('/upload-doc', protectRoute, uploadDoc);
 
 export default router;
+
+
+

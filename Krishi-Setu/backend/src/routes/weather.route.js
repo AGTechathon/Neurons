@@ -6,3 +6,7 @@ const router = express.Router();
 router.get("/forecast", getWeatherForecast);
 
 export default router;
+
+
+
+

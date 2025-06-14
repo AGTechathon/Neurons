@@ -37,4 +37,5 @@ export const getWeatherForecast = async (req, res) => {
     console.error("❌ Weather fetch error:", error.message);
     res.status(500).json({ error: 'Weather fetch failed' });
   }
+  
 };
