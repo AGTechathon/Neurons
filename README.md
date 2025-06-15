@@ -41,7 +41,7 @@ An AI-first advisory platform that:
 - 📄 **Document Summarizer**: AI-based summarization of official agri-documents.
 
 ## Features list 
-![features](images\features.png)
+![features](images/features.png)
 
 ## Tech Stack
 
